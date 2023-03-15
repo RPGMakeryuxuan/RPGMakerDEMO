@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"废墟","order":2,"parentId":0,"scrollX":1068,"scrollY":1523.5},
+{"id":3,"expanded":false,"name":"城堡 3F","order":1,"parentId":0,"scrollX":1068,"scrollY":1142.5},
+{"id":4,"expanded":false,"name":"石洞","order":3,"parentId":0,"scrollX":1068,"scrollY":1142.5},
+{"id":5,"expanded":false,"name":"空中神殿","order":4,"parentId":0,"scrollX":816,"scrollY":740},
+{"id":6,"expanded":false,"name":"转移空间","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"空中城市","order":7,"parentId":0,"scrollX":1040,"scrollY":1922.5},
+{"id":8,"expanded":false,"name":"MAP000","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":0,"scrollX":534,"scrollY":318.5},
+{"id":10,"expanded":false,"name":"武器商店","order":10,"parentId":0,"scrollX":534,"scrollY":318.5},
+{"id":11,"expanded":true,"name":"护甲商店","order":11,"parentId":0,"scrollX":534,"scrollY":318.5},
+{"id":12,"expanded":false,"name":"物品商店","order":12,"parentId":0,"scrollX":534,"scrollY":414.5},
+{"id":13,"expanded":false,"name":"民居 1","order":13,"parentId":0,"scrollX":534,"scrollY":414.5},
+{"id":14,"expanded":false,"name":"民居 2","order":14,"parentId":0,"scrollX":534,"scrollY":510.5},
+{"id":15,"expanded":false,"name":"宅邸","order":15,"parentId":0,"scrollX":1075,"scrollY":322.5},
+{"id":16,"expanded":false,"name":"赌场","order":16,"parentId":0,"scrollX":1020,"scrollY":1296.5},
+{"id":17,"expanded":false,"name":"城堡 1F","order":17,"parentId":0,"scrollX":1128,"scrollY":1288.5},
+{"id":18,"expanded":false,"name":"旅馆 1F","order":18,"parentId":0,"scrollX":534,"scrollY":654.5},
+{"id":19,"expanded":false,"name":"旅馆 2F","order":19,"parentId":0,"scrollX":534,"scrollY":414.5},
+{"id":20,"expanded":false,"name":"医院","order":20,"parentId":0,"scrollX":838,"scrollY":1580.5}
+]
